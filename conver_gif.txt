@@ -1,0 +1,2 @@
+> brew install ImageMagick
+> convert -coalesce animation.gif target.png
